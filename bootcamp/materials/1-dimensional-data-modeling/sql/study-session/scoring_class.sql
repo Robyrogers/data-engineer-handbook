@@ -1,0 +1,1 @@
+CREATE TYPE scoring_class as ENUM('star', 'good', 'average', 'bad')
